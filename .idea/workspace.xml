@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7aaae67-c217-4e8f-94de-8df72893a2ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.-0.1.0.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.helmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chart.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/NOTES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/_helpers.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/deployment.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hpa.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ingress.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/service.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/serviceaccount.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tests/test-connection.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/.-0.1.0.tgz" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684390491376</updated>
-      <workItem from="1684390492549" duration="2674000" />
+      <workItem from="1684390492549" duration="2988000" />
     </task>
     <servers />
   </component>
